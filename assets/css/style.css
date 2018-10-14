@@ -1,0 +1,36 @@
+body {
+    background: url(../images/concrete-texture.png);
+    /* background-size: cover; */
+    font-family: 'Lato', sans-serif;
+
+}
+
+h1,h2,h3,h4 {
+    font-family: 'Francois One', sans-serif;
+}
+
+.form-check-input {
+    position: absolute;
+    margin-top: .5rem;
+    margin-left: 0;
+}
+.btn-lg {
+    padding: .5rem 5rem;
+}
+
+.total p {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img {
+    max-width: 100%;
+}
